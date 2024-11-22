@@ -2,11 +2,8 @@
 /vendor/
 composer.lock
 
-# PHPUnit
-coverage.xml
-
 # IDE
 .idea
 
-# Local cache directory
+# Cache folder
 /cache
